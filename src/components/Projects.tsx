@@ -18,6 +18,14 @@ const Projects = () => {
       githubLink: 'https://github.com/desire-674/WEATHER_APP/tree/main/Weather%20APP',
       image: '/images/movie-recommendation.jpg'
     },
+     {
+      id: 4,
+      title: 'Secure connectivity to VPC through Bastion Host',
+      description: 'To connect to a private server through a Bastion Host',
+      technologies: ['VPC','AWS','EC2'],
+      githubLink: 'https://github.com/desire-674/AWS_PROJECTS/tree/main/Secure%20connectivity%20to%20VPC%20through%20Bastion%20Host',
+      image: '/images/blockchain.jpg'
+    },
     {
       id: 2,
       title: 'Job Portal Using AWS',
