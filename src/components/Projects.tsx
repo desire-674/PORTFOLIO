@@ -16,7 +16,7 @@ const Projects = () => {
       description: 'A Simple Weather application that provides Forecast Information',
       technologies: [ 'Html','CSS', 'Javascript'],
       githubLink: 'https://github.com/desire-674/WEATHER_APP/tree/main/Weather%20APP',
-      image: '/images/movie-recommendation.jpg'
+      image: 'src/assets/weather.jpg'
     },
      {
       id: 4,
