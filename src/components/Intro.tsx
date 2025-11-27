@@ -16,7 +16,7 @@ const Intro = () => {
 
           <div className="profile-pic-container">
             <img 
-              src="public/desire.jpg" 
+              src="/desire.JPG" 
               alt="Sai Ganesh" 
               className="profile-pic"
             />
