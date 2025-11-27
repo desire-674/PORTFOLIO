@@ -20,6 +20,10 @@ const Footer = () => {
                   <a href="mailto:ganesh1lucky2@gmail.com">ganesh1lucky2@gmail.com</a>
                 </li>
                 <li>
+                  <span>Phone:</span> 
+                  <a>8151991189</a>
+                </li>
+                <li>
                   <span>Location:</span> Rajahmundry, India
                 </li>
               </ul>
